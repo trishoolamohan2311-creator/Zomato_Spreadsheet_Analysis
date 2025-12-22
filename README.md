@@ -16,3 +16,6 @@ cuisines, and digital adoption to derive business insights.
 
 ## Tools & Skills
 Excel, Pivot Tables, Data Cleaning, Dashboard Creation, Data Analysis, PowerPoint
+
+## Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
