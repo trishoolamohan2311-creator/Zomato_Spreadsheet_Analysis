@@ -18,4 +18,4 @@ cuisines, and digital adoption to derive business insights.
 Excel, Pivot Tables, Data Cleaning, Dashboard Creation, Data Analysis, PowerPoint
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+<img width="1214" height="432" alt="Zomato Dashboard" src="https://github.com/user-attachments/assets/4f22bf29-a086-4997-a1f1-892483709946" />
