@@ -1,2 +1,2 @@
 # Zomato_Analysis
-Excel-based Zomato restaurant data analysis and dashboard
+Spreadsheet (Excel) based Zomato restaurant data analysis and dashboard
