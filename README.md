@@ -9,7 +9,7 @@ cuisines, and digital adoption to derive business insights.
 
 ## What I Did
 - Cleaned and prepared raw restaurant data
-- Used Pivot Tables for analysis
+- Used Pivot Tables & charts for analysis
 - Built an interactive Excel dashboard
 - Analyzed online delivery and table booking trends
 - Suggested potential markets for expansion
