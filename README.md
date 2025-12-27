@@ -1,6 +1,9 @@
 # Zomato_Analysis
 Spreadsheet (Excel) based Zomato restaurant data analysis and dashboard
 
+## Dashboard Preview
+<img width="1214" height="432" alt="Zomato Dashboard" src="https://github.com/user-attachments/assets/4f22bf29-a086-4997-a1f1-892483709946" />
+
 # Zomato Restaurant Data Analysis (Excel Project)
 ## Project Description
 This project involves analyzing Zomato restaurant data using Excel.
@@ -17,5 +20,3 @@ cuisines, and digital adoption to derive business insights.
 ## Tools & Skills
 Excel, Pivot Tables, Data Cleaning, Dashboard Creation, Data Analysis, PowerPoint
 
-## Dashboard Preview
-<img width="1214" height="432" alt="Zomato Dashboard" src="https://github.com/user-attachments/assets/4f22bf29-a086-4997-a1f1-892483709946" />
